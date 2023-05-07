@@ -1,9 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=KDH's%20github&fontSize=90)
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fehcjswo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fehcjswo%2Fhit-counter&count_bg=%2300C4FF&title_bg=%230A0A0A&icon=freebsd.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
+<a href="ehcjswo.tistory.com">
+    <img 
+        src="http://img.shields.io/badge/-Blog-black?style=flat&logo=TOML&link=https://ehcjswo.tistory.com/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
+<a href="https://alpox.kr">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 
-### 프로그래밍 & 마크업 언어
+<div align="center">### 프로그래밍 & 마크업 언어</div>
 <div align="center">
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"></a>
   <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white"></a>
